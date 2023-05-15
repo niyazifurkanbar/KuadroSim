@@ -3,7 +3,7 @@
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
 
 KuadroSim is an optimized and practical quantum circuit simulator. This simulator has most 
-of the quantum gates found in other simulators. So, special quantum gate addition and TFC module addition functions are available in this simulator. Perform circuit design faster and more practical with KuadroSim.
+of the quantum gates found in other simulators. Furthermore, special quantum gate addition and TFC module addition functions are available in this simulator. Perform circuit design faster and more practical with KuadroSim.
 
 ## Installation
 In order to install KuadroSim, download src/KuadroSim.py from this repo and and copy it to the folder where your code is. KuadroSim requires the numpy library, to install numpy, enter the following command in the command line.
