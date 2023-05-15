@@ -251,12 +251,3 @@ The project title is "[A Deep Learning Based Method for Automatic Generation of 
 
 
   
-## Katkı
-
-Katkılara her zaman açığız!
-
-Başlamak `Contributor.md'ye bakın.
-
-Lütfen bu projenin `davranış kurallarına` uyun.
-
-  
